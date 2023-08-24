@@ -1,0 +1,83 @@
+/* *{
+    background-image: url(wowfondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}   */
+
+.header22{
+      position: fixed;
+     text-decoration: none;
+     position: sticky;
+     /* justify-content: space-between; */
+     padding-top: 20px;
+     padding-bottom: 20px;
+     text-align: center;
+     
+     color: palevioletred;
+     
+     background-color: rgb(2, 2, 2); 
+     width: 100%;
+     height: 15%;
+     margin: 0px;
+} 
+
+
+.header div{
+    background-color: rgb(16, 15, 15);
+}
+body{
+    margin: 0px;
+    padding: 0%;
+    
+}
+ .bodys{
+    /* background-color: rgb(21, 20, 20); */
+    
+     background-image: url(wowfondo.jpg);
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: cover;
+    
+
+}  
+.holylight{
+    position: relative;
+    top: 20px;
+    height: 40px;
+    margin: 5px;
+}
+.divbo2{
+    color: whitesmoke;
+    /* background-color: rgb(18, 18, 38); */
+}
+.holyshock{
+    position: relative;
+    top: 20px;
+    height: 40px;
+    margin: 5px;
+}
+.footer2{
+    position: relative;
+    top: 190px;
+    padding: 50px;
+    margin: 0;
+    color:whitesmoke;
+    background-color: black;
+}
+.animacion{
+    padding: 15px 25px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    color: #fff;
+    background-color: #3f3d4a;
+    border: none;
+     border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+.animacion:hover {background-color: #3f3d4a}
+.animacion:active {
+    background-color: #3f3d4a;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px)}
+
