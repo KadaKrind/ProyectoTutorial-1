@@ -1,0 +1,59 @@
+#body{
+    background-color: black;
+   
+}
+.headera3{
+    color:palevioletred;
+    text-decoration: none;
+    /* background-color: rgba(48, 43, 43, 0.854);*/
+} 
+
+
+.divrow{
+    padding-top: 60px;
+    margin-top: 50px;
+    color:palevioletred;
+    background-color: black;
+}
+.divrow1{
+    padding: 50px;
+    margin:30px;
+}
+.arefwowhead{
+    text-decoration: underline;
+    color:whitesmoke;
+}
+.text1{
+    padding:0px;
+    background-color: rgb(31, 29, 32);
+    box-shadow: 5px 5px 5px rgba(82, 47, 59, 0.493);
+}
+.text2{
+    background-color: rgba(39, 29, 46, 0.815);
+}
+.text1 h2{
+    color:whitesmoke;
+
+}
+.text1 p{
+    color: aliceblue;
+}
+.text2 h2{
+    color:whitesmoke;
+
+}
+.text2 p{
+    color: aliceblue;
+}
+.text2 article{
+    color: aliceblue;
+    padding-bottom: 30px;
+}
+.tarjeta{
+    color: aliceblue;
+    text-decoration: none;
+}
+.tarjeta a{
+    text-decoration: none;
+    color: aqua;
+}

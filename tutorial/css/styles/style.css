@@ -120,6 +120,8 @@ div h2, div h3{
     /* border-top: 1px solid whitesmoke; */
     /* border-left: 1px solid whitesmoke; */
     margin: 25px;
+    /* display: flex;
+    flex-direction: row; */
     
     }
 #inicio h1{
@@ -140,11 +142,16 @@ div h2, div h3{
 .div1 img{
     height: 350px;
     width: 500px;
-    position: absolute;
-    left: 55%;
-    bottom: 21.9%;
+    position: relative;
+    left: 20%;
+    bottom: 10%;
+    
 }
+
 .div1{
+    display: flex;
+
+    width: 800px;
     padding: 12px;
     border: 0px;
     margin: 12px;
@@ -171,7 +178,7 @@ div h2, div h3{
 .textfooter{
     position: absolute;
     left: 80%;
-    top:1010px;
+    top:1120px;
     text-align: center;
     justify-content: end;
     padding-top: 30px;
