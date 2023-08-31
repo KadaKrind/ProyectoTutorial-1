@@ -114,16 +114,30 @@ div h2, div h3{
     display: none;
 }
 #inicio{
-    padding: 45px;
-    padding-top: 20px;
+    width: 90%;
+    padding-left: 30px;
+    padding:0%;
+    margin-right: 25px;
     border: 1px solid whitesmoke;
+    display: flex;
+    flex-direction: row;
     /* border-top: 1px solid whitesmoke; */
     /* border-left: 1px solid whitesmoke; */
-    margin: 25px;
+    margin: 5%;
     /* display: flex;
     flex-direction: row; */
     
     }
+.izq{
+    width: 50%;
+}
+.der{
+    width: 50%;
+}
+.texto_1{
+    width: 100%;
+    height: 100%;
+}
 #inicio h1{
     color:palevioletred;
     font-size: 20px;
@@ -139,14 +153,7 @@ div h2, div h3{
     height: 290px;
     width: 300px;
 } */
-.div1 img{
-    height: 350px;
-    width: 500px;
-    position: relative;
-    left: 20%;
-    bottom: 10%;
-    
-}
+
 
 .div1{
     display: flex;
@@ -178,7 +185,7 @@ div h2, div h3{
 .textfooter{
     position: absolute;
     left: 80%;
-    top:1120px;
+    top:1130px;
     text-align: center;
     justify-content: end;
     padding-top: 30px;
@@ -207,7 +214,7 @@ div h2, div h3{
     height: 200px;
     width: 200px;
     position: absolute;
-    top:700px;
+    top:850px;
     left: 650px;
 }
 .alliance{
@@ -215,7 +222,7 @@ div h2, div h3{
     height: 200px;
     width: 150px;
     position: absolute;
-    top: 700px;
+    top: 850px;
     left: 950px;
 
 }
